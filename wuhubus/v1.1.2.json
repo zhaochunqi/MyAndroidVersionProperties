@@ -1,5 +1,6 @@
 {
     "version":"v1.1.2",
-    "version_code":4,
-    "info":"1.减少应用包的体积\n2.添加了网络超时的处理"
+    "number":4,
+    "info":"1.减少应用包的体积\n2.添加了网络超时的处理",
+    "link":"http://fir.im/wryu"
 }
